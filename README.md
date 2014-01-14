@@ -1,5 +1,5 @@
-test-repo
-=========
+test-repo-merge-tests
+=====================
 
 Test REPOSITORY
 

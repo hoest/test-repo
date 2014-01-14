@@ -1,6 +1,6 @@
 test-repo
 =========
 
-Test repository
+Test REPOSITORY
 
 MASTER

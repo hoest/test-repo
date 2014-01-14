@@ -1,4 +1,4 @@
-test-repo-merge-tests
+test-repo-MERGE-tests
 =====================
 
 Test REPOSITORY
